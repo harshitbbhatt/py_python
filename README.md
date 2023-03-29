@@ -18,4 +18,5 @@ Then install the dependencies:
 ```
 
 Python version : 3.8
+
 Python Franework: Django Framework(4.1.7)
